@@ -4,6 +4,7 @@ version = "0.1.0"
 authors = ["Nadir Fejzic <nadirfejzo@gmail.com>"]
 description = "To be added"
 repository = "https://github.com/nfejzic/boks"
+license = "Apache-2.0"
 
 edition = "2021"
 
